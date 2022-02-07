@@ -1,3 +1,8 @@
+
+# Free Apis App
+
+Esta es una aplicación creada con Angular 13 que tiene como fin usar API's de dominio público e integrarlas en un dashboard con la intención de poder
+practicar técnicas y formas en las cuales podemos interactucar con las mismas.
 # NgAdminx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
