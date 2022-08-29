@@ -1,0 +1,3 @@
+This is a new git file!
+This  is other modification!
+This  is other other modification!
